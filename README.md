@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains a collection of 50 C++ programs covering a wide range of concepts, from basic syntax to intermediate algorithms and data structures. These programs are designed to help learners strengthen their understanding of C++ and improve their problem-solving skills.
+This repository contains a collection of 46 C++ programs covering a wide range of concepts, from basic syntax to intermediate algorithms and data structures. These programs are designed to help learners strengthen their understanding of C++ and improve problem-solving skills.
 
 ## Table of Contents
 
@@ -92,23 +92,19 @@ This repository includes the following 50 programs categorized into different di
 34. **Binary Search Tree (BST)** - Implements a BST with insertion, deletion, and traversal.
 35. **Graph Representation (Adjacency Matrix & List)** - Implements graphs using adjacency matrix and list.
 36. **Depth First Search (DFS) & Breadth First Search (BFS)** - Traverses a graph using DFS and BFS.
-37. **Hash Table Implementation** - Implements a hash table with collision handling.
-38. **Priority Queue using Heap** - Implements a min/max heap-based priority queue.
-39. **Trie Data Structure** - Implements a trie for efficient word searching.
-40. **Dijkstra’s Algorithm** - Finds the shortest path in a graph.
 
 ### **Game Development & Miscellaneous:**
-41. **Number Guessing Game** - Implements a simple number guessing game.
-42. **Tic-Tac-Toe Game** - Implements a console-based tic-tac-toe game.
-43. **Rock-Paper-Scissors Game** - Simulates the rock-paper-scissors game.
-44. **Bank Account Management System** - Simulates a simple bank account system with deposit, withdrawal, and balance check.
-45. **Student Management System** - Implements a basic student record management system.
-46. **Library Management System** - Simulates a library management system.
-47. **Currency Converter** - Converts an amount between different currencies.
-48. **Temperature Converter** - Converts temperature between Celsius, Fahrenheit, and Kelvin.
-49. **Unit Conversion Program** - Converts various units (length, weight, etc.).
-50. **Simple Chatbot** - Implements a basic rule-based chatbot.
-
+37. **Number Guessing Game** - Implements a simple number guessing game.
+38. **Tic-Tac-Toe Game** - Implements a console-based tic-tac-toe game.
+39. **Rock-Paper-Scissors Game** - Simulates the rock-paper-scissors game.
+40. **Bank Account Management System** - Simulates a simple bank account system with deposit, withdrawal, and balance check.
+41. **Student Management System** - Implements a basic student record management system.
+42. **Library Management System** - Simulates a library management system.
+43. **Currency Converter** - Converts an amount between different currencies.
+44. **Temperature Converter** - Converts temperature between Celsius, Fahrenheit, and Kelvin.
+45. **Unit Conversion Program** - Converts various units (length, weight, etc.).
+46. **Simple Chatbot** - Implements a basic rule-based chatbot.
+    
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or additional programs, please fork the repository and create a pull request.
@@ -133,6 +129,3 @@ Thanks to all contributors who helped in developing these programs:
 
 
 ---
-
-Feel free to customize this template further according to your needs!
-
